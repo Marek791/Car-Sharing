@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\Admin\\Desktop\\Car-Sharing\\index.html"
+            "file": "c:\\Users\\marek\\OneDrive\\Pulpit\\Car-Sharing\\index.html"
         }
     ]
 }
